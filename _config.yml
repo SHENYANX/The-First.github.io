@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -13,23 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 黄琦雲的博客
+title: ShenYX的博客
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
 baseurl: "/"
-url: "https://knightyun.github.io"
+url: "https://shenyanx.github.io/The-First.github.io/"
 permalink: /:year/:month/:day/:title
-repository: knightyun/knightyun.github.io
+repository:shenyanx.github.io/The-First.github.io
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "https://github.com/knightyun"
-user: "黄琦雲"
-user_email: "2386209384@qq.com"
+github_profile: "https://shenyanx.github.io/The-First.github.io/"
+user: "ShenYX"
+user_email: "646026412@qq.com"
 # contact_url: "https://goo.gl/tVljbV"
 # google_tracking_id: "UA-96359860-1"
 # google_site_verification: "UA-96359860-1"
-# disqus_shortname: "黄琦雲"
+# disqus_shortname: "ShenYX"
 
 # Build settings
 markdown: kramdown
